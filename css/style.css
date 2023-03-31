@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Alkatra' , cursive;
+}
+
+nav{
+    background-color: #C10808;
+    width: 100%;
+}
+
+.menu{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.menu .lista{
+    display: inline-block;
+}
+
+.lista-r{
+    float: right;
+}
+
+.lista a{
+    text-decoration: none;
+    color: white;
+    padding: 15px 50px;
+    display: block;
+    
+}
+
+.lista a:hover{
+    background-color: darkblue;
+}
+
+.banner{
+    width: 100%;
+    height: 380px;
+}
+
+.titulo-ppal{
+    text-align: center;
+    color: blue;
+    font-family:cursive;
+}
+
+

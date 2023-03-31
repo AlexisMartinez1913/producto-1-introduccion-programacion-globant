@@ -1,0 +1,10 @@
+.pie {
+    /* height:50px; */
+    
+    background:black;
+    color:white;
+    text-align:center;
+    /*position:relative;*/
+    
+    width:100%;
+}
